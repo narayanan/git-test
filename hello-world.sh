@@ -1,3 +1,3 @@
 #!/bin.zsh
 
-echo "Hello Exciting world!"
+echo "Hello Exciting 2024!"
